@@ -1,7 +1,6 @@
 #include "stdio.h"
 #include <windows.h>
 #include <conio.h>
-#include <time.h>
 #define Esc 27 //退出
 #define Up 72 //上，下，左，右
 #define Down 80
